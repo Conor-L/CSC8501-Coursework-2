@@ -1,6 +1,6 @@
 /*
 
-	The entire project is available on my github at: https://github.com/Conor-L/CSC8501-Coursework-1
+	The entire project is available on my github at: https://github.com/Conor-L/CSC8501-Coursework-2
 	
 */
 
