@@ -3,6 +3,7 @@
 #include <vector>
 #include <fstream>
 #include <string>
+#include <stack>
 
 struct Cell { 
 	char value = ' '; 
@@ -24,10 +25,34 @@ struct Node {
 	double h = FLT_MAX;
 };
 
+struct Entrance {
+	Cell* current_cell;
+	Cell* available_neighbour;
+};
+
+struct Player {
+	// TODO Clear the memory of these
+	Cell* current_cell;
+	Cell* previous_cell;
+	char value = 'P';
+
+	Entrance* my_entrance;
+	std::stack<Node*> my_route;
+
+	std::vector<Node*> open;
+	std::vector<Node*> closed;
+	std::vector<Node*> path;
+	std::stack<Node*> stack_path;
+
+	bool found_exit = false;
+};
+
+
+
 class Maze{	
 	public:
 		Maze();
-		Maze(int dim_x, int dim_y, int num_exits); // Parameterised Constructor where the user can provide the information needed
+		Maze(int dim_x, int dim_y, int num_exits, int num_players); // Parameterised Constructor where the user can provide the information needed
 		~Maze();
 
 		// Maze initialisation functions
@@ -41,8 +66,8 @@ class Maze{
 		void print_maze();
 
 		// Maze helper functions
-		void place_exit(int num_exits);
-		void place_start(int startx, int starty);
+		void place_entrance(int num_entrances);
+		void place_finish(int finishx, int finishy);
 		int generate_random_number(int upper_limit, int lower_limit);
 
 		// Save and Load functions
@@ -51,34 +76,40 @@ class Maze{
 		Maze* load_maze(std::string filename);
 
 		// A* Algorithm route generation
-		void generate_route(Node* dest);
+		void generate_route(Node* dest, Player* player, Node* starting_node);
 		bool node_is_dest(int x, int y, Node* dest);
-		bool check_closed_list(Node* n);
-		void set_next_node(Node* next_node, Node* q, Cell* c, Node* dest);
+		bool check_closed_list(Node* n, Player* player);
+		void set_next_node(Player* player, Node* next_node, Node* q, Cell* c, Node* dest);
 		double calculate_heuristic(int x, int y, Node* dest);
-		void create_path(std::vector<Node*> path, Node* dest, Node* initial);
+		void create_path(std::vector<Node*> path, Node* dest, Node* initial, Player* player);
 
 		// A*  Algorithm helper functions
-		std::vector<Cell*> generate_travsersible_cells();
-		Node* find_closest_exit(std::vector<Cell*> exit_vector);
 		void generate_all_routes(std::vector<Cell*> exit_vector);
+
+		// Player placements and tracking
+		void place_players(int num_players);
+		Cell* find_available_neighbour(Cell* entrance);
+		void update_player_position(Player* player, Cell* new_cell);
+		bool step_through_movements(std::vector<Player*> active_players);
+		void convert_path_vector(std::vector<Player*> players);
 
 		// Used for retrieving the exit vector needed for assisting the User Input
 		std::vector<Cell*> get_exits();
+		std::vector<Player*> get_players();
 
 	private:
 		Cell** maze;
 		int maze_x_size = 0;
 		int maze_y_size = 0;
-		int num_exits = 1;
+		int num_entrances = 2;
+		int num_players = 2;
+		int turn = 0;
 
-		Cell* starting_cell;
-		std::vector<Cell*> exit_vector;
+		Cell* finishing_cell;
+		std::vector<Cell*> entrance_cells;
+		std::vector<Entrance*> entrance_vector;
+		std::vector<Player*> active_players;
 		std::vector<Cell*> traversible_cells;
 
-		// Vectors for the A* Algorithm
-		std::vector<Node*> open;
-		std::vector<Node*> closed;
-		std::vector<Node*> path;
-
+		int players_finished = 0;
 };
