@@ -17,14 +17,14 @@ Maze* User::generate_maze(int h, int w, int e) {
 }
 
 Maze* User::generate_all_routes(Maze* m) {
-	m->generate_all_routes(m->get_exits());
+	m->generate_all_routes(m->get_entrances());
 	cout << "Player routes have been Calculated!" << endl;
 
 	return m;
 }
 
 Maze* User::generate_random_mazes(Maze* m, int w, int h, int p) {
-	m = generate_maze(m->generate_random_number(h, 12), m->generate_random_number(w, 35), m->generate_random_number(p, 2));
+	m = generate_maze(m->generate_random_number(h, height_lower_limit), m->generate_random_number(w, width_lower_limit), m->generate_random_number(p, player_lower_limit));
 	generate_all_routes(m);
 	return m;
 }
@@ -82,15 +82,16 @@ int main() {
 	int input = -1;	
 	int information_input = -1;
 
-	int width = 35;
-	int height = 12;
-	int exits = 1;
-	string filename;
-	string username;
+	int width = maze_user->get_width_l();
+	int height = maze_user->get_height_l();
+	int entrances = maze_user->get_players_l();
 
-	int maze_width_upper = 200;
-	int maze_height_upper = 100;
-	int player_upper = 40;
+	int width_u = maze_user->get_width_u();
+	int height_u = maze_user->get_height_u();
+	int player_u = maze_user->get_players_u();
+
+	string filename;
+	string username;	
 
 	cout << "Enter your username (special characters will be removed!): ";
 	cin >> username;
@@ -128,33 +129,33 @@ int main() {
 				cout << "How wide do you want the maze to be ? (Min: 35, Max: 200): ";
 				width = maze_user->check_integer_input(input);
 
-				width < 35 ? width = 35 : width;
-				width > 200 ? width = 200 : width;
+				width < maze_user->get_width_l() ? width = maze_user->get_width_l() : width;
+				width > maze_user->get_width_u() ? width = maze_user->get_width_u() : width;
 
 				cout << "How high do you want the maze to be ? (Min: 12, Max: 100): ";
 				height = maze_user->check_integer_input(input);
 
-				height < 12 ? height = 12 : height;
-				height > 100 ? height = 100 : height;
+				height < maze_user->get_height_l() ? height = maze_user->get_height_l() : height;
+				height > maze_user->get_height_u() ? height = maze_user->get_height_u() : height;
 				
-				cout << "How many exits do you want? The same number or players will be created. (Min: 2, Sensible: 5~10, Not-So-Sensible: 20+): ";
-				exits = maze_user->check_integer_input(input);
+				cout << "How many entrances do you want? The same number or players will be created. (Min: 2, Sensible: 5~10, Not-So-Sensible: 20+): ";
+				entrances = maze_user->check_integer_input(input);
 
-				exits < 2 ? exits = 2 : exits;
-				exits > height* width ? exits = 10 : exits;
+				entrances < maze_user->get_players_l() ? entrances = maze_user->get_players_l() : entrances;
+				entrances > height* width ? entrances = maze_user->get_players_u() : entrances;
 
-				if (height * width * exits > maze_user->get_warning_limit()) {
+				if (height * width * entrances > maze_user->get_warning_limit()) {
 					cout << endl;
 					cout << "- - - - - - - - - - - - - - -" << endl;
-					cout << "WARNING: the dimensions you have provided (width/height/exits) results in a huge coefficient which could result in slow route generation times" << endl;
+					cout << "WARNING: the dimensions you have provided (width/height/entrances) results in a huge coefficient which could result in slow route generation times" << endl;
 					cout << "Resuming in 5 seconds." << endl;
 					cout << "- - - - - - - - - - - - - - -" << endl;
 					cout << endl;
 					this_thread::sleep_for(chrono::seconds(5));
 				}
 
-				cout << "Generating Maze of width: " << width << " and height: " << height << " with " << exits << " exits." << endl;
-				generated_maze = maze_user->generate_maze(height, width, exits);
+				cout << "Generating Maze of width: " << width << " and height: " << height << " with " << entrances << " entrances." << endl;
+				generated_maze = maze_user->generate_maze(height, width, entrances);
 				generated_maze = maze_user->generate_all_routes(generated_maze);
 
 				cout << "Do you want to start stepping through the players moving? " << endl;
@@ -316,20 +317,22 @@ int main() {
 			case 4:
 				// generate random mazes
 				cout << "Please provide a number for the width upper limit between 35 and 200: ";
-				maze_width_upper = maze_user->check_integer_input(input);
-				maze_width_upper < 35 ? maze_width_upper = 35 : maze_width_upper;
-				maze_width_upper > 200 ? maze_width_upper = 200 : maze_width_upper;
-				cout << "Please provide a number for the height upper limit between 12 and 100: ";
-				maze_height_upper = maze_user->check_integer_input(input);
-				maze_height_upper < 12 ? maze_height_upper = 12 : maze_height_upper;
-				maze_height_upper > 100 ? maze_height_upper = 100 : maze_height_upper;
-				cout << "Please provide a number for the player upper limit between 2 and 40: ";
-				player_upper = maze_user->check_integer_input(input);
-				player_upper < 2 ? player_upper = 2 : player_upper;
-				player_upper > 40 ? player_upper = 40 : player_upper;
+				width_u = maze_user->check_integer_input(input);
+				width_u < maze_user->get_width_l() ? width_u = maze_user->get_width_l() : width_u;
+				width_u > maze_user->get_width_u() ? width_u = maze_user->get_width_u() : width_u;
 
-				for (int i = 0; i < 100; i++) {
-					generated_maze = maze_user->generate_random_mazes(generated_maze, maze_width_upper, maze_height_upper, player_upper);
+				cout << "Please provide a number for the height upper limit between 12 and 100: ";
+				height_u = maze_user->check_integer_input(input);
+				height_u < maze_user->get_height_l() ? height_u = maze_user->get_height_l() : height_u;
+				height_u > maze_user->get_height_u() ? height_u = maze_user->get_height_u() : height_u;
+
+				cout << "Please provide a number for the player upper limit between 2 and 40: ";
+				player_u = maze_user->check_integer_input(input);
+				player_u < maze_user->get_players_l() ? player_u = maze_user->get_players_l() : player_u;
+				player_u > maze_user->get_players_u() ? player_u = maze_user->get_players_u() : player_u;
+
+				for (int i = 0; i < maze_user->get_maze_gen_amount(); i++) {
+					generated_maze = maze_user->generate_random_mazes(generated_maze, width_u, height_u, player_u);
 					finish_looping = maze_user->step_through_automatically(generated_maze);
 					cout << "Starting next maze." << endl;
 					this_thread::sleep_for(chrono::milliseconds(500));

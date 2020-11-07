@@ -772,7 +772,7 @@ void Maze::convert_path_vector(vector<Player*> players) {
 	
 }
 
-vector<Cell*> Maze::get_exits() {
+vector<Cell*> Maze::get_entrances() {
 	return entrance_cells;
 }
 

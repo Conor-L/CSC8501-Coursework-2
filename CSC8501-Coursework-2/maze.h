@@ -94,7 +94,7 @@ class Maze{
 		void convert_path_vector(std::vector<Player*> players);
 
 		// Used for retrieving the exit vector needed for assisting the User Input
-		std::vector<Cell*> get_exits();
+		std::vector<Cell*> get_entrances();
 		std::vector<Player*> get_players();
 
 	private:
