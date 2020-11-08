@@ -2,15 +2,20 @@
   maze.cpp
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(282,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(465,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(548,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(637,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(659,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(700,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(723,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(814,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(815,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(819,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(431,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(453,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(536,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(625,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(647,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(688,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(711,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(802,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(803,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(807,21): warning C4018: '<': signed/unsigned mismatch
+  user.cpp
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\user.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\user.cpp(63,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\user.cpp(86,8): warning C4101: 'copy_maze': unreferenced local variable
+  Generating Code...
   CSC8501 Coursework 1.vcxproj -> C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\Debug\CSC8501 Coursework 2.exe

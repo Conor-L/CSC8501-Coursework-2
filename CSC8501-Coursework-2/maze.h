@@ -53,7 +53,6 @@ class Maze{
 	public:
 		Maze();
 		Maze(int dim_x, int dim_y, int num_exits, int num_players); // Parameterised Constructor where the user can provide the information needed
-		Maze(const Maze& rhs);
 		~Maze();
 
 		// Maze initialisation functions

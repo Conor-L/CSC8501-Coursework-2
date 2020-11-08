@@ -163,8 +163,6 @@ int main() {
 				generated_maze = maze_user->generate_maze(height, width, entrances);
 				generated_maze = maze_user->generate_all_routes(generated_maze);
 
-				copy_maze = new Maze(*generated_maze);
-
 				cout << "Do you want to start stepping through the players moving? " << endl;
 				cout << "(1) Yes " << endl;
 				cout << "(2) No " << endl;
@@ -243,7 +241,7 @@ int main() {
 
 						filename = maze_user->get_username() + "-" + filename;
 
-						maze_user->save_progression(copy_maze, filename);
+						maze_user->save_progression(generated_maze, filename);
 						break;
 					case 3:
 						cout << "Saving will not occur." << endl;

@@ -57,17 +57,6 @@ Maze::Maze(int dim_x, int dim_y, int num_entrances, int num_players) {
 
 }
 
-Maze::Maze(const Maze& rhs) {	
-	maze_x_size = rhs.maze_x_size;
-	maze_y_size = rhs.maze_y_size;
-	num_entrances = rhs.num_entrances;
-	num_players = rhs.num_players;
-
-	finishing_cell = rhs.finishing_cell;
-	entrance_cells = rhs.entrance_cells;
-	active_players = rhs.active_players;
-}
-
 Maze::~Maze() {
 	// Clean up
 	for (int i = 0; i < maze_x_size + 1; i++) {
@@ -356,8 +345,8 @@ void Maze::save_progression(Maze* m, string f) {
 	string txt_f = f + ".txt";
 	string rtf_f = f + "-rtf.rtf";
 
-	write_file(m, txt_f);
-	write_file(m, rtf_f);
+	write_progression(m, txt_f);
+	write_progression(m, rtf_f);
 	
 
 }
