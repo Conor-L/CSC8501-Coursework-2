@@ -7,69 +7,78 @@
 
 #include <time.h>
 #include "maze.h"
-#include <stack>
 #include <Windows.h>
 
 using namespace std;
-Maze::Maze() {
-	srand(time(NULL));
 
-	maze = new Cell*[12];
-	for (int i = 0; i < 12; i++) {
-		maze[i] = new Cell[35];
-	}
+// Default constructor mainly for background testing
+Maze::Maze() {
+	srand(time(0));
+
+	maze = new Cell[(12 * 35)];
 
 	maze_x_size = 11;
 	maze_y_size = 34;
 
 	fill_maze();
 	set_walls();
-	place_start(maze_x_size / 2, maze_y_size / 2);
+	place_finish(maze_x_size / 2, maze_y_size / 2);
 	set_neighbours();
 
-	generate_maze(*starting_cell);
+	generate_maze(*finishing_cell);
 	generate_maze_centre();
-	place_exit(num_exits);
+	place_entrance(num_entrances);
 
 }
 
-Maze::Maze(int dim_x, int dim_y, int num_exits) {
-	srand(time(NULL));
+Maze::Maze(int dim_x, int dim_y, int num_entrances, int num_players) {
+	srand(time(0));
 
 	maze_x_size = dim_x - 1;
 	maze_y_size = dim_y - 1;
-	this->num_exits = num_exits;
+	this->num_entrances = num_entrances;
+	this->num_players = num_players;
 
-	maze = new Cell*[dim_x];
-	for (int i = 0; i < dim_x; i++) {
-		maze[i] = new Cell[dim_y];
-	}
+	maze = new Cell[dim_x * dim_y];
 
 	fill_maze();
 	set_walls();
-	place_start(maze_x_size / 2, maze_y_size / 2);
+	place_finish(maze_x_size / 2, maze_y_size / 2);
 
 	set_neighbours();
-	generate_maze(*starting_cell);
+	generate_maze(*finishing_cell);
 	generate_maze_centre();
-	place_exit(num_exits);
+	place_entrance(num_entrances);
+	place_players(num_players);
 
 }
-	
+
+Maze::Maze(const Maze& rhs) {
+	maze = new Cell[(rhs.maze_x_size + 1) * (rhs.maze_y_size + 1)];
+
+	maze_x_size = rhs.maze_x_size;
+	maze_y_size = rhs.maze_y_size;
+	num_entrances = rhs.num_entrances;
+	num_players = rhs.num_players;
+
+	finishing_cell = rhs.finishing_cell;
+	entrance_cells = rhs.entrance_cells;
+	active_players = rhs.active_players;
+
+	memcpy(maze, rhs.maze, sizeof(Cell) * (maze_x_size + 1) * (maze_y_size + 1));
+}
+
 Maze::~Maze() {
 	// Clean up
-	for (int i = 0; i < maze_x_size + 1; i++) {
-		delete[] maze[i];
-	}
 	delete[] maze;
 }
 
 void Maze::fill_maze() {
 	for (int i = 0; i < (maze_x_size + 1); i++) {
 		for (int j = 0; j < (maze_y_size + 1); j++) {
-			maze[i][j].value = 'X';
-			maze[i][j].x = i;
-			maze[i][j].y = j;
+			maze[get_array_index(i, j)].value = 'X';
+			maze[get_array_index(i, j)].x = i;
+			maze[get_array_index(i, j)].y = j;
 			
 		}
 	}
@@ -80,11 +89,11 @@ void Maze::set_walls() {
 		for (int j = 0; j < (maze_y_size + 1); j++) {
 
 			if ((j == 0) || (j == maze_y_size)) {
-				maze[i][j].isWall = true;
+				maze[get_array_index(i, j)].isWall = true;
 			}
 
 			else if ((i == 0) || (i == maze_x_size)) {
-				maze[i][j].isWall = true;
+				maze[get_array_index(i, j)].isWall = true;
 			}
 		}
 	}
@@ -94,26 +103,26 @@ void Maze::set_neighbours() {
 	for (int i = 0; i < (maze_x_size + 1); i++) {
 		for (int j = 0; j < (maze_y_size + 1); j++) {
 			if (j == 0 || j != maze_y_size) {
-				maze[i][j].right_neighbour = &maze[i][j + 1];
+				maze[get_array_index(i, j)].right_neighbour = &maze[get_array_index(i, j + 1)];
 			}
 
 			if (j != 0) {
-				maze[i][j].left_neighbour = &maze[i][j - 1];
+				maze[get_array_index(i, j)].left_neighbour = &maze[get_array_index(i, j - 1)];
 			}
 
 			if (i == 0 || i != maze_x_size) {
-				maze[i][j].down_neighbour = &maze[i + 1][j];
+				maze[get_array_index(i, j)].down_neighbour = &maze[get_array_index(i + 1, j)];
 			}
 
 			if (i != 0) {
-				maze[i][j].up_neighbour = &maze[i - 1][j];
+				maze[get_array_index(i, j)].up_neighbour = &maze[get_array_index(i - 1, j)];
 			}
 		}
 	}
 }
 
 void Maze::generate_maze(Cell c) {
-	Cell* initial_cell = &maze[c.x][c.y];
+	Cell* initial_cell = &maze[get_array_index(c.x, c.y)];
 	stack<Cell*> path_stack;
 
 	initial_cell->visited = true;
@@ -129,7 +138,7 @@ void Maze::generate_maze(Cell c) {
 		}
 
 		while (!available_neighbours.empty()) {
-			int random = generate_random_number(available_neighbours.size(), 0); 
+			int random = generate_random_number(available_neighbours.size() - 1, 0); 
 			Cell* next_cell = available_neighbours.at(random);
 			if (!check_space(*next_cell)) {
 				path_stack.push(current_cell);
@@ -146,20 +155,20 @@ void Maze::generate_maze(Cell c) {
 vector<Cell*> Maze::get_neighbours(Cell current) {
 	vector<Cell*> available_neighbours;
 	
-	if ((current.up_neighbour->visited == false) && (current.up_neighbour->isWall == false)) {
-		available_neighbours.emplace_back(maze[current.x][current.y].up_neighbour);
+	if (!(current.up_neighbour == nullptr) && (current.up_neighbour->visited == false) && (current.up_neighbour->isWall == false)) {
+		available_neighbours.emplace_back(maze[get_array_index(current.x, current.y)].up_neighbour);
 	}
 	
-	if ((current.down_neighbour->visited == false) && (current.down_neighbour->isWall == false)) {
-		available_neighbours.emplace_back(maze[current.x][current.y].down_neighbour);
+	if (!(current.down_neighbour == nullptr) && (current.down_neighbour->visited == false) && (current.down_neighbour->isWall == false)) {
+		available_neighbours.emplace_back(maze[get_array_index(current.x, current.y)].down_neighbour);
 	}
 
-	if ((current.right_neighbour->visited == false) && (current.right_neighbour->isWall == false)) {
-		available_neighbours.emplace_back(maze[current.x][current.y].right_neighbour);
+	if (!(current.right_neighbour == nullptr) && (current.right_neighbour->visited == false) && (current.right_neighbour->isWall == false)) {
+		available_neighbours.emplace_back(maze[get_array_index(current.x, current.y)].right_neighbour);
 	}
 	
-	if ((current.left_neighbour->visited == false) && (current.left_neighbour->isWall == false)) {
-		available_neighbours.emplace_back(maze[current.x][current.y].left_neighbour);
+	if (!(current.left_neighbour == nullptr) && (current.left_neighbour->visited == false) && (current.left_neighbour->isWall == false)) {
+		available_neighbours.emplace_back(maze[get_array_index(current.x, current.y)].left_neighbour);
 	}
 	
 	return available_neighbours;
@@ -196,25 +205,25 @@ bool Maze::check_space(Cell check) {
 }
 
 void Maze::generate_maze_centre() {
-	int startx = starting_cell->x;
-	int starty = starting_cell->y;
+	int startx = finishing_cell->x;
+	int starty = finishing_cell->y;
 
 	for (int i = starty - 2; i < starty + 3; i++) {
-		maze[startx - 1][i].value = ' ';
-		maze[startx - 1][i].visited = true;
+		maze[get_array_index(startx - 1, i)].value = ' ';
+		maze[get_array_index(startx - 1, i)].visited = true;
 	}
 
 	for (int i = starty - 2; i < starty + 3; i++) {
 		if (i == starty) {
 			continue;
 		}
-		maze[startx][i].value = ' '; 
-		maze[startx - 1][i].visited = true;
+		maze[get_array_index(startx, i)].value = ' ';
+		maze[get_array_index(startx - 1, i)].visited = true;
 	}
 
 	for (int i = starty - 2; i < starty + 3; i++) {
-		maze[startx + 1][i].value = ' '; 
-		maze[startx - 1][i].visited = true;
+		maze[get_array_index(startx + 1, i)].value = ' ';
+		maze[get_array_index(startx - 1, i)].visited = true;
 	}
 
 }
@@ -222,23 +231,28 @@ void Maze::generate_maze_centre() {
 void Maze::print_maze() {
 	for (int i = 0; i < (maze_x_size + 1); i++) {
 		for (int j = 0; j < (maze_y_size + 1); j++) {
-			if (maze[i][j].value == 'o') {
+			if (maze[get_array_index(i, j)].value == 'o') {
 				SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 10);
-				cout << maze[i][j].value;				
+				cout << maze[get_array_index(i, j)].value;				
 			}
 
-			else if (maze[i][j].value == 'E') {
+			else if (maze[get_array_index(i, j)].value == 'E') {
 				SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 12);
-				cout << maze[i][j].value;
+				cout << maze[get_array_index(i, j)].value;
 			}
 
-			else if (maze[i][j].value == 'S') {
+			else if (maze[get_array_index(i, j)].value == 'F') {
 				SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 12);
-				cout << maze[i][j].value;
+				cout << maze[get_array_index(i, j)].value;
+			}
+
+			else if (maze[get_array_index(i, j)].value == 'P') {
+				SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 14);
+				cout << maze[get_array_index(i, j)].value;
 			}
 
 			else {
-				cout << maze[i][j].value;
+				cout << maze[get_array_index(i, j)].value;
 			}
 			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15);
 		}
@@ -247,7 +261,7 @@ void Maze::print_maze() {
 	cout << endl;
 }
 
-void Maze::place_exit(int num_exits) {
+void Maze::place_entrance(int num_entrances) {
 	vector<Cell*> possible_exit_positions;
 	vector<Cell*> confirmed_exit_positions;
 	
@@ -255,7 +269,7 @@ void Maze::place_exit(int num_exits) {
 		for (int j = 0; j < maze_y_size + 1; j++) {
 			if (!(i == 0 && j == 0) && !(i == 0 && j == maze_y_size) && !(i == maze_x_size && j == 0) && !(i == maze_x_size && j == maze_y_size)) {
 				// Ignore corners
-				possible_exit_positions.emplace_back(&maze[i][j]);
+				possible_exit_positions.emplace_back(&maze[get_array_index(i, j)]);
 			}
 		}
 	}
@@ -290,21 +304,38 @@ void Maze::place_exit(int num_exits) {
 
 	}
 
-	for (int k = 0; k < num_exits; k++) {
-		int random_exit = generate_random_number(confirmed_exit_positions.size(), 0);
-		confirmed_exit_positions.at(random_exit)->value = 'E';
-		exit_vector.emplace_back(confirmed_exit_positions.at(random_exit));
+	for (int k = 0; k < num_entrances; k++) {
+		int random_exit = generate_random_number(confirmed_exit_positions.size() - 1, 0);
+		Cell* c = confirmed_exit_positions.at(random_exit);		
+		
+		if (c->value != 'E') {
+			c->value = 'E';
+			entrance_cells.emplace_back(c);
+
+			Entrance* new_entrance = new Entrance;
+			new_entrance->current_cell = c;
+			new_entrance->available_neighbour = find_available_neighbour(c);
+
+			entrance_vector.emplace_back(new_entrance);
+		}
+
+		else {
+			// Go back and attempt to re-place that entrance
+			k--;
+			continue;
+		}
 	}
 	
 }
 
-void Maze::place_start(int startx, int starty) {
-	maze[startx][starty].value = 'S';
-	starting_cell = &maze[startx][starty];
+void Maze::place_finish(int finishx, int finishy) {
+	maze[get_array_index(finishx, finishy)].value = 'F';
+	finishing_cell = &maze[get_array_index(finishx, finishy)];
 }
 
 int Maze::generate_random_number(int upper_limit, int lower_limit) {
-	return(rand() % upper_limit + lower_limit);
+	int random = lower_limit + (rand() % (upper_limit - lower_limit + 1));
+	return random;
 }
 
 void Maze::save_maze(Maze* maze, string filename) {
@@ -317,6 +348,11 @@ void Maze::save_maze(Maze* maze, string filename) {
 
 }
 
+void Maze::save_progression(Maze* m, string f) {
+	string txt_f = f + ".txt";
+	write_progression(m, txt_f);
+}
+
 void Maze::write_file(Maze* m, string f) {
 	ofstream ostream;
 
@@ -326,12 +362,40 @@ void Maze::write_file(Maze* m, string f) {
 	}
 
 	ostream << m->maze_x_size + 1 << "|" << m->maze_y_size + 1 << endl;
-	ostream << m->num_exits << endl;
+	ostream << m->num_entrances << endl;
 	for (int i = 0; i < (m->maze_x_size + 1); i++) {
 		for (int j = 0; j < (m->maze_y_size + 1); j++) {
-			ostream << m->maze[i][j].value;
+			ostream << m->maze[get_array_index(i, j)].value;
 		}
 		ostream << endl;
+	}
+
+	if (!ostream) {
+		cout << "There was an issue writing to this file." << endl;
+	}
+
+	ostream.close();
+}
+
+void Maze::write_progression(Maze* m, string f) {
+	bool stop = false;
+	ofstream ostream;
+
+	ostream.open(f);
+	if (!ostream) {
+		cout << "There was an issue opening this file." << endl;
+	}
+
+	while (!stop) {
+		for (int i = 0; i < (m->maze_x_size + 1); i++) {
+			for (int j = 0; j < (m->maze_y_size + 1); j++) {
+				ostream << m->maze[get_array_index(i, j)].value;
+			}
+			ostream << endl;
+		}
+		ostream << "-" << endl;
+
+		stop = step_through_movements(m->get_players());
 	}
 
 	if (!ostream) {
@@ -347,40 +411,112 @@ Maze* Maze::load_maze(string filename) {
 	istream.open(filename + ".txt");
 
 	if (!istream) {
-		cout << "There was an issue opening this file." << endl;
+		cout << "There was an issue opening this file: File does not exist." << endl;
 	}
 
 	else {
+
+		int search_valid;
+		int entrance_counter = 0;
+		int split = -1;
+		int height = -1;
+		int width = -1;
 	
 		string dimensions;
 		istream >> dimensions;
 
-		int split = dimensions.find('|');
-		int height = stoi(dimensions.substr(0, split));
-		int width = stoi(dimensions.substr(split + 1));
+		search_valid = dimensions.find('|');
 
-		int exits;
-		istream >> exits;
+		if (search_valid < dimensions.size()) {
+			split = dimensions.find('|');
+			height = stoi(dimensions.substr(0, split));
+			width = stoi(dimensions.substr(split + 1));
+		}
 
-		Maze* new_maze = new Maze(height, width, exits);
+		else {
+			cout << "-Error:" << endl;
+			cout << "The file that you have attempted to load a maze does not contain maze dimensions." << endl;
+			cout << "You can fix this by adding the dimensions to the file yourself:" << endl;
+			cout << "To add the dimensions, load the file and type <dim_x>|<dim_y> on the first line and press enter; where <dim_x> and <dim_y> are the height and width." << endl;
+			cout << "For example: 12|35" << endl;
+			cout << "- - - - - - - - - - - - - -" << endl;
+			return nullptr;
+		}		
+
+		string entrances_s;
+		int entrances;
+		istream >> entrances_s;
+
+		search_valid = entrances_s.find('X');
+
+		if (search_valid < entrances_s.size()) {
+			cout << "-Error:" << endl;
+			cout << "The file that you have attempted to load a maze does not contain maze entrances." << endl;
+			cout << "You can fix this by adding the entrances to the file yourself:" << endl;
+			cout << "To add the entrances, load the file and type the number of entrances on the second line and press enter." << endl;
+			cout << "- - - - - - - - - - - - - -" << endl;
+			return nullptr;
+		}
+
+		else {
+			entrances = stoi(entrances_s);
+		}
+
+		Maze* new_maze = nullptr;
+
+		try {
+			new_maze = new Maze(height, width, entrances, entrances);
+		}
+		catch (const std::bad_array_new_length e) {
+			cout << "- - - - - - - - - " << endl;
+			cout << "An exception has occured attempting to generate your maze: " << e.what() << endl;
+			cout << "Check: " << endl;
+			cout << "(1) The dimensions that you have entered are actually correct." << endl;
+			cout << "(2) The number of exits that you have entered are actually correct." << endl;
+			cout << "- - - - - - - - - " << endl;
+			return nullptr;
+		}
 
 		for (int i = 0; i < height; i++) {
 			for (int j = 0; j < width; j++) {
 				char c;
 				c = istream.get();
 
+				if (c == 'E') {
+					entrance_counter++;
+				}
+
 				if (c == '\n') {
 					c = istream.get();
 				}
 
-				new_maze->maze[i][j].value = c;
+				new_maze->maze[get_array_index(i, j)].value = c;
 
 			}
 		}
 
+		char eof;
+		istream >> eof; // This will get the file end character after the for loop
+
+		if (istream.eof() == 0) {
+			cout << "- - - - - - - - - " << endl;
+			cout << "There was an issue reading this file: end of file not reached." << endl;
+			cout << "Check the maze dimensions and make sure that they correct in order to read whole file." << endl;
+			cout << "- - - - - - - - - " << endl;
+			return nullptr;
+		}
+
+		if (entrance_counter != entrances) {
+			cout << "- - - - - - - - - " << endl;
+			cout << "There was an issue reading this file: entrances inconsistent." << endl;
+			cout << "Check the maze entrance dimension to make sure it is correct (it should equal how many entrances actually exist)." << endl;
+			cout << "- - - - - - - - - " << endl;
+			return nullptr;
+		}
+
 		new_maze->print_maze();
 
-		if (!istream) {
+		if (!istream && (istream.eof() == 0)) {
 			cout << "There was an issue reading this file. Please check your spelling and try again!" << endl;
 		}
 
@@ -390,128 +526,149 @@ Maze* Maze::load_maze(string filename) {
 	return nullptr;
 }
 
-void Maze::generate_route(Node* dest) {
-	closed.clear();
-	open.clear();
-	path.clear();
+void Maze::load_progression(string filename) {
+	ifstream istream;
 
-	vector<Cell*> copy_cells = generate_travsersible_cells();
-	Cell* starting_cell = nullptr;
-	for (int i = 0; i < copy_cells.size(); i++) {
-		if (copy_cells.at(i)->value == 'S') {
-			starting_cell = copy_cells.at(i);
-		}
+	istream.open(filename + ".txt");
+	char c;
+
+	if (!istream) {
+		cout << "There was an issue opening this file: File does not exist." << endl;
+		istream.close();
+		return;
 	}
-	Node* starting_node = new Node; 
-	starting_node->current_cell = starting_cell;
-	starting_node->f = 0;
-	starting_node->g = 0;
-	starting_node->h = 0;
 
-	open.emplace_back(starting_node);
-	path.emplace_back(starting_node);
+	while (istream.eof() == 0) {
+		c = istream.get();
+		if (c == '\n') {
+			cout << endl;
+			continue;
+		}
+		
+		if (c == 'E' || c == 'F') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 12);
+			cout << c;
+		}
 
-	bool dest_found = false;
+		else if (c == 'P') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 14);
+			cout << c;
+		}
 
-	while (open.empty() != true) {
+		else if (c == 'o') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 10);
+			cout << c;
+		}
+
+		else {
+			cout << c;
+		}
+
+		SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15);
+	}
+
+	if (!istream && (istream.eof() == 0)) {
+		cout << "There was an issue reading this file. Please check your spelling and try again!" << endl;
+		istream.close();
+		return;
+	}
+
+	istream.close();
+}
+
+void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
+
+	while (!(player->open.empty())) {
 		Node* q = new Node;
 		int index_of_q = 0;
 		double lowest_f = 9999;
-		for (int i = 0; i < open.size(); i++) {
-			if (open.at(i)->f < lowest_f) {
-				lowest_f = open.at(i)->f;
-				q = open.at(i);
+		for (int i = 0; i < player->open.size(); i++) {
+			if (player->open.at(i)->f < lowest_f) {
+				lowest_f = player->open.at(i)->f;
+				q = player->open.at(i);
 				index_of_q = i;
 				
 			}
 		}
 
-		open.erase(open.begin() + index_of_q);
-		closed.emplace_back(q);
+		player->open.erase(player->open.begin() + index_of_q);
+		player->closed.emplace_back(q);
 
-		// North
-
+		// up
 		if (q != nullptr && (q->current_cell->up_neighbour != nullptr && q->current_cell->up_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->up_neighbour;
 			Node* n = new Node;
 			n->current_cell = c;
 
 			if (node_is_dest(c->x, c->y, dest) == true) {
-				dest->parent_cell = q;				
-				dest_found = true;
-				path.emplace_back(dest);
+				dest->parent_cell = q;
+				player->path.emplace_back(dest);
 				break;
 			}
 
-			else if (!(check_closed_list(n))) {
-				set_next_node(n, q, c, dest);
+			else if (!(check_closed_list(n, player))) {
+				set_next_node(player, n, q, c, dest);
 			}
 		}	
 
-		// South
-
+		// down
 		if (q != nullptr && (q->current_cell->down_neighbour != nullptr && q->current_cell->down_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->down_neighbour;
 			Node* n = new Node;
 			n->current_cell = c;
 
 			if (node_is_dest(c->x, c->y, dest) == true) {
-				dest->parent_cell = q;				
-				dest_found = true;
-				path.emplace_back(dest);
+				dest->parent_cell = q;
+				player->path.emplace_back(dest);
 				break;
 			}
 
-			else if (!(check_closed_list(n))) {
-				set_next_node(n, q, c, dest);
+			else if (!(check_closed_list(n, player))) {
+				set_next_node(player, n, q, c, dest);
 			}
 		}
 
-		// East
-
+		// right
 		if (q != nullptr && (q->current_cell->right_neighbour != nullptr && q->current_cell->right_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->right_neighbour;
 			Node* n = new Node;
 			n->current_cell = c;
 
 			if (node_is_dest(c->x, c->y, dest) == true) {
-				dest->parent_cell = q;				
-				dest_found = true;
-				path.emplace_back(dest);
+				dest->parent_cell = q;
+				player->path.emplace_back(dest);
 				break;
 			}
 
-			else if (!(check_closed_list(n))) {
-				set_next_node(n, q, c, dest);
+			else if (!(check_closed_list(n, player))) {
+				set_next_node(player, n, q, c, dest);
 			}
 		}
 
-		// West
-
+		// left
 		if (q != nullptr && (q->current_cell->left_neighbour != nullptr && q->current_cell->left_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->left_neighbour;
 			Node* n = new Node;
 			n->current_cell = c;
 
 			if (node_is_dest(c->x, c->y, dest) == true) {
-				dest->parent_cell = q;				
-				dest_found = true;
-				path.emplace_back(dest);
+				dest->parent_cell = q;
+				player->path.emplace_back(dest);
 				break;
 			}
 
-			else if (!(check_closed_list(n))) {
-				set_next_node(n, q, c, dest);
+			else if (!(check_closed_list(n, player))) {
+				set_next_node(player, n, q, c, dest);
 			}
 		}
 	}
-	create_path(path, dest, starting_node);
+	create_path(player->path, dest, starting_node, player);
 }
 
-bool Maze::check_closed_list(Node* n) {
+bool Maze::check_closed_list(Node* n, Player* player) {
 	bool dupe_check = false;
-	for (int i = 0; i < closed.size(); i++) {
-		Cell* ct = closed.at(i)->current_cell;
+	for (int i = 0; i < player->closed.size(); i++) {
+		Cell* ct = player->closed.at(i)->current_cell;
 		if (n->current_cell == ct) {
 			dupe_check = true;
 			return dupe_check;
@@ -524,7 +681,7 @@ bool Maze::check_closed_list(Node* n) {
 	return dupe_check;
 }
 
-void Maze::set_next_node(Node* next_node, Node* q, Cell* c, Node* dest) {
+void Maze::set_next_node(Player* player, Node* next_node, Node* q, Cell* c, Node* dest) {
 	double new_g, new_f, new_h;
 	bool dupe_check = false;
 
@@ -532,8 +689,8 @@ void Maze::set_next_node(Node* next_node, Node* q, Cell* c, Node* dest) {
 	new_h = calculate_heuristic(c->x, c->y, dest);
 	new_f = new_g + new_h;
 
-	for (int i = 0; i < open.size(); i++) {
-		Cell* ct = open.at(i)->current_cell;
+	for (int i = 0; i < player->open.size(); i++) {
+		Cell* ct = player->open.at(i)->current_cell;
 		if (next_node->current_cell == ct) {
 			dupe_check = true;
 			break;
@@ -550,8 +707,8 @@ void Maze::set_next_node(Node* next_node, Node* q, Cell* c, Node* dest) {
 		next_node->h = new_h;
 		next_node->parent_cell = q;
 
-		open.emplace_back(next_node);
-		path.emplace_back(next_node);
+		player->open.emplace_back(next_node);
+		player->path.emplace_back(next_node);
 	}
 }
 
@@ -566,9 +723,10 @@ double Maze::calculate_heuristic(int x, int y, Node* dest) {
 	return ((double)sqrt(pow((x - dest->current_cell->x), 2) + pow((y - dest->current_cell->y), 2)));
 }
 
-void Maze::create_path(vector<Node*> path, Node* dest, Node* initial) {
+void Maze::create_path(vector<Node*> path, Node* dest, Node* initial, Player* player) {
 
 	stack<Node*> complete;
+	stack<Node*> reversed_stack;
 	Node* current_node = dest;
 	while (!(current_node->current_cell == initial->current_cell)) {
 		complete.push(current_node);
@@ -580,56 +738,135 @@ void Maze::create_path(vector<Node*> path, Node* dest, Node* initial) {
 		}
 	}
 
-	complete.push(dest);
-	while (!complete.empty()) {
-		Node* current_pop = complete.top();
-		complete.pop();
-		if (current_pop->current_cell->value == ' ' || current_pop->current_cell->value == 'o') {
-			// Checking if a node is already 'o' is necessary if you are generating loads of exits.
-			maze[current_pop->current_cell->x][current_pop->current_cell->y].value = 'o';
+	player->my_route = complete;
+	player->my_route.pop();
+
+}
+
+void Maze::generate_all_routes(vector<Cell*> entrances) {
+	Node* entrance_node = new Node;
+	Node* starting_node = new Node;
+	starting_node->f = 0;
+	starting_node->g = 0;
+	starting_node->h = 0;
+	Node* finishing_node = new Node;
+	finishing_node->current_cell = finishing_cell;
+	Player* current_player;
+
+	for (int k = 0; k < active_players.size(); k++) {
+		current_player = active_players.at(k);
+		starting_node->current_cell = current_player->my_entrance->current_cell;			
+		active_players.at(k)->open.emplace_back(starting_node);
+		active_players.at(k)->path.emplace_back(starting_node);
+		generate_route(finishing_node, current_player, starting_node);
+	}
+
+	//convert_path_vector(active_players);
+
+}
+
+void Maze::place_players(int num_players) {
+	for (int i = 0; i < num_players; i++) {
+		Entrance* curr_e = entrance_vector.at(i);
+		Player* new_player = new Player;
+		new_player->current_cell = curr_e->available_neighbour;
+		new_player->current_cell->value = 'P';
+		new_player->my_entrance = curr_e;
+		active_players.emplace_back(new_player);
+	}
+}
+
+Cell* Maze::find_available_neighbour(Cell* e) {
+	if (e->up_neighbour != nullptr && e->up_neighbour->value == ' ') {
+		return e->up_neighbour;
+	}
+
+	if (e->down_neighbour != nullptr && e->down_neighbour->value == ' ') {
+		return e->down_neighbour;
+	}
+
+	if (e->left_neighbour != nullptr && e->left_neighbour->value == ' ') {
+		return e->left_neighbour;
+	}
+
+	if (e->right_neighbour != nullptr && e->right_neighbour->value == ' ') {
+		return e->right_neighbour;
+	}
+
+	return nullptr;
+}
+
+void Maze::update_player_position(Player* player,  Cell* n) {
+
+	player->previous_cell = player->current_cell;
+	player->current_cell = n;
+	player->current_cell->value = 'P';
+	player->previous_cell->value = 'o';
+	
+}
+
+bool Maze::step_through_movements(vector<Player*> players) {
+	if (!(players.at(turn)->my_route.empty())) {
+
+		Node* next_step = players.at(turn)->my_route.top();
+		if (next_step->current_cell->value != 'P' || next_step->current_cell == finishing_cell) {
+			players.at(turn)->my_route.pop();
+			update_player_position(players.at(turn), next_step->current_cell);
+		}
+
+		else {
+			cout << "A Player has been blocked by another Player!" << endl;
+			cout << "Their turn has been skipped." << endl;
+		}
+
+		if (players.at(turn)->my_route.empty()) {
+			cout << "A Player has finished!" << endl;
+			players_finished++;
 		}
 	}
+
+	if (players_finished == num_entrances) {
+		cout << "All Players have finished!" << endl;
+		return true;
+	}
+	
+	if (turn != players.size() - 1) {
+		turn++;
+	}
+
+	else {
+		turn = 0;
+	}
+
+	print_maze();
+	return false;
 }
 
-vector<Cell*> Maze::generate_travsersible_cells() {
-	for (int i = 0; i < maze_x_size + 1; i++) {
-		for (int j = 0; j < maze_y_size + 1; j++) {
-			if (maze[i][j].value == ' ' || maze[i][j].value == 'E' || maze[i][j].value == 'S') {
-				traversible_cells.emplace_back(&maze[i][j]);
-			}
+void Maze::convert_path_vector(vector<Player*> players) {
+	stack<Node*> reversed_stack;
+	for (int i = 0; i < players.size(); i++) {
+		for (int j = 0; j < players.at(i)->path.size(); j++) {
+			players.at(i)->stack_path.push(players.at(i)->path.at(j));
 		}
-	}
-	return traversible_cells;
-}
 
-Node* Maze::find_closest_exit(vector<Cell*> exits) {
-	Node* closest_node = new Node;
-
-	for (int i = 0; i < exits.size(); i++) {
-		Node* current_exit = new Node;
-		current_exit->current_cell = exits.at(i);
-
-		double new_h = calculate_heuristic(starting_cell->x, starting_cell->y, current_exit);
-
-		if (new_h < closest_node->h) {
-			closest_node = current_exit;
+		for (int k = 0; k < players.at(i)->stack_path.size(); k++) {
+			reversed_stack.push(players.at(i)->stack_path.top());
+			players.at(i)->stack_path.pop();
 		}
+		players.at(i)->stack_path = reversed_stack;
 	}
 
-	return closest_node;
-
+	
 }
 
-void Maze::generate_all_routes(vector<Cell*> exits) {
-
-	Node* exit_node = new Node;
-	for (int i = 0; i < exits.size(); i++) {
-		exit_node->current_cell = exits.at(i);
-		generate_route(exit_node);
-	}
-
+vector<Cell*> Maze::get_entrances() {
+	return entrance_cells;
 }
 
-vector<Cell*> Maze::get_exits() {
-	return exit_vector;
+vector<Player*> Maze::get_players() {
+	return active_players;
+}
+
+int Maze::get_array_index(int x, int y) {
+	return y + (maze_y_size + 1) * x; 
 }
