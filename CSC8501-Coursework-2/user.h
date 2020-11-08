@@ -18,19 +18,17 @@ class User : public Maze {
 		std::string check_string(std::string s);
 		int check_integer_input(int input);
 
-		std::string get_username() { return username; }
+		std::string get_username();
 		void set_username(std::string s) { this->username = s; }
 
-		int get_warning_limit() { return WRN_LIMIT; }
-
-		int get_height_l() { return height_lower_limit; };
-		int get_width_l() { return width_lower_limit; };
-		int get_players_l() { return player_lower_limit; };
-		int get_height_u() { return maze_width_upper; };
-		int get_width_u() { return maze_height_upper; };
-		int get_players_u() { return player_upper; };
-
-		int get_maze_gen_amount() { return MZE_GEN_AMNT; }
+		int get_warning_limit();
+		int get_height_l();
+		int get_width_l();
+		int get_players_l();
+		int get_height_u();
+		int get_width_u();
+		int get_players_u();
+		int get_maze_gen_amount();
 
 	private:
 		std::string username;

@@ -102,7 +102,7 @@ class Maze{
 		std::vector<Player*> get_players();
 
 		// Get the array index
-		int get_array_index(int x, int y) { return y + (maze_y_size + 1) * x; }
+		int get_array_index(int x, int y);
 
 	private:
 		Cell* maze;

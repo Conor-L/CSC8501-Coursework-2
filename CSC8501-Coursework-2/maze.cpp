@@ -10,6 +10,8 @@
 #include <Windows.h>
 
 using namespace std;
+
+// Default constructor mainly for background testing
 Maze::Maze() {
 	srand(time(0));
 
@@ -348,10 +350,7 @@ void Maze::save_maze(Maze* maze, string filename) {
 
 void Maze::save_progression(Maze* m, string f) {
 	string txt_f = f + ".txt";
-
 	write_progression(m, txt_f);
-	
-
 }
 
 void Maze::write_file(Maze* m, string f) {
@@ -595,8 +594,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 		player->open.erase(player->open.begin() + index_of_q);
 		player->closed.emplace_back(q);
 
-		// North
-
+		// up
 		if (q != nullptr && (q->current_cell->up_neighbour != nullptr && q->current_cell->up_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->up_neighbour;
 			Node* n = new Node;
@@ -613,8 +611,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}	
 
-		// South
-
+		// down
 		if (q != nullptr && (q->current_cell->down_neighbour != nullptr && q->current_cell->down_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->down_neighbour;
 			Node* n = new Node;
@@ -631,8 +628,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}
 
-		// East
-
+		// right
 		if (q != nullptr && (q->current_cell->right_neighbour != nullptr && q->current_cell->right_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->right_neighbour;
 			Node* n = new Node;
@@ -649,8 +645,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}
 
-		// West
-
+		// left
 		if (q != nullptr && (q->current_cell->left_neighbour != nullptr && q->current_cell->left_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->left_neighbour;
 			Node* n = new Node;
@@ -870,4 +865,8 @@ vector<Cell*> Maze::get_entrances() {
 
 vector<Player*> Maze::get_players() {
 	return active_players;
+}
+
+int Maze::get_array_index(int x, int y) {
+	return y + (maze_y_size + 1) * x; 
 }
