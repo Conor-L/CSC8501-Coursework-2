@@ -77,6 +77,7 @@ class Maze{
 		void write_file(Maze* m, std::string filename);
 		void write_progression(Maze* m, std::string filename);
 		Maze* load_maze(std::string filename);
+		void load_progression(std::string filename);
 
 		// A* Algorithm route generation
 		void generate_route(Node* dest, Player* player, Node* starting_node);

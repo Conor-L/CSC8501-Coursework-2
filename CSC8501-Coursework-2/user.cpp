@@ -121,9 +121,10 @@ int main() {
 		cout << "Choose an option using one of the numbers below: " << endl;
 		cout << "(1) Generate a Maze" << endl;
 		cout << "(2) Load a previous Maze" << endl;
-		cout << "(3) Information and Explanation" << endl;
-		cout << "(4) Generate a series of random mazes (Warning: this will take a long time.)" << endl;
-		cout << "(5) Exit the program" << endl;
+		cout << "(3) Load a series of progression mazes" << endl;
+		cout << "(4) Information and Explanation" << endl;
+		cout << "(5) Generate a series of random mazes (Warning: this will take a long time.)" << endl;
+		cout << "(6) Exit the program" << endl;
 		cout << "-> ";
 
 		input = maze_user->check_integer_input(input);
@@ -163,11 +164,10 @@ int main() {
 				generated_maze = maze_user->generate_maze(height, width, entrances);
 				generated_maze = maze_user->generate_all_routes(generated_maze);
 
-				copy_maze = new Maze(*generated_maze);
-
 				cout << "Do you want to start stepping through the players moving? " << endl;
 				cout << "(1) Yes " << endl;
-				cout << "(2) No " << endl;
+				cout << "(2) Save the progression to a file instead" << endl;
+				cout << "(3) No " << endl;
 				cout << "-> ";
 
 				input = maze_user->check_integer_input(input);
@@ -199,6 +199,21 @@ int main() {
 						break;
 
 					case 2:
+						cout << "Please enter a suitable filename - do not include special characters or spaces (they will be removed!): ";
+						cin >> filename;
+						filename = maze_user->check_string(filename);
+
+						if (filename.empty() == true) {
+							cout << "A unique name will be generated due to lack of characters" << endl;
+							filename = "maze" + to_string(generated_maze->generate_random_number(50000, 0));
+						}
+
+						filename = maze_user->get_username() + "-" + filename;
+
+						maze_user->save_progression(generated_maze, filename);
+						break;
+
+					case 3:
 						cout << "Routes will not be generated." << endl;
 						break;
 
@@ -209,9 +224,8 @@ int main() {
 				}
 
 				cout << "Do you want to save this maze? " << endl;
-				cout << "(1) Save just this maze " << endl;
-				cout << "(2) Save player progression mazes " << endl;
-				cout << "(3) No " << endl;
+				cout << "(1) Save this maze " << endl;
+				cout << "(2) No " << endl;
 				cout << "-> ";
 
 				input = maze_user->check_integer_input(input);
@@ -230,22 +244,8 @@ int main() {
 						filename = maze_user->get_username() + "-" + filename;
 
 						maze_user->save_maze(generated_maze, filename);
-						break;
+						break;					
 					case 2:
-						cout << "Please enter a suitable filename - do not include special characters or spaces (they will be removed!): ";
-						cin >> filename;
-						filename = maze_user->check_string(filename);
-
-						if (filename.empty() == true) {
-							cout << "A unique name will be generated due to lack of characters" << endl;
-							filename = "maze" + to_string(generated_maze->generate_random_number(50000, 0));
-						}
-
-						filename = maze_user->get_username() + "-" + filename;
-
-						maze_user->save_progression(copy_maze, filename);
-						break;
-					case 3:
 						cout << "Saving will not occur." << endl;
 						break;
 					default:
@@ -262,6 +262,12 @@ int main() {
 				maze_user->load_maze(generated_maze, filename);
 				break;
 			case 3:
+				// Load a Previous Maze
+				cout << "Please enter the file name that you wish to load: ";
+				cin >> filename;
+				maze_user->load_progression(filename);
+				break;
+			case 4:
 				cout << "This is the information section. Here you can learn more about how the maze is traversed." << endl;
 				cout << "Choose an option to learn more:" << endl;
 				cout << "(1) Deadlock and Livelock scenarios" << endl;
@@ -336,7 +342,7 @@ int main() {
 
 				break;
 
-			case 4:
+			case 5:
 				// generate random mazes
 				cout << "Please provide a number for the width upper limit between 35 and 200: ";
 				width_u = maze_user->check_integer_input(input);
@@ -363,7 +369,7 @@ int main() {
 
 				break;
 
-			case 5:
+			case 6:
 				// Exit the program
 				cout << "Goodbye!" << endl;
 				keep_running = false;

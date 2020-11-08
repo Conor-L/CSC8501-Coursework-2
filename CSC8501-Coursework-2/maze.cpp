@@ -347,12 +347,9 @@ void Maze::save_maze(Maze* maze, string filename) {
 }
 
 void Maze::save_progression(Maze* m, string f) {
-	cout << "A txt file and an rtf file will be generated - the rtf file is readable but the txt file is only meant for the computer." << endl;
 	string txt_f = f + ".txt";
-	string rtf_f = f + "-rtf.rtf";
 
 	write_progression(m, txt_f);
-	write_progression(m, rtf_f);
 	
 
 }
@@ -389,9 +386,6 @@ void Maze::write_progression(Maze* m, string f) {
 	if (!ostream) {
 		cout << "There was an issue opening this file." << endl;
 	}
-
-	ostream << m->maze_x_size + 1 << "|" << m->maze_y_size + 1 << endl;
-	ostream << m->num_entrances << endl;
 
 	while (!stop) {
 		for (int i = 0; i < (m->maze_x_size + 1); i++) {
@@ -531,6 +525,56 @@ Maze* Maze::load_maze(string filename) {
 		return new_maze;
 	}
 	return nullptr;
+}
+
+void Maze::load_progression(string filename) {
+	ifstream istream;
+
+	istream.open(filename + ".txt");
+	char c;
+
+	if (!istream) {
+		cout << "There was an issue opening this file: File does not exist." << endl;
+		istream.close();
+		return;
+	}
+
+	while (istream.eof() == 0) {
+		c = istream.get();
+		if (c == '\n') {
+			cout << endl;
+			continue;
+		}
+		
+		if (c == 'E' || c == 'F') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 12);
+			cout << c;
+		}
+
+		else if (c == 'P') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 14);
+			cout << c;
+		}
+
+		else if (c == 'o') {
+			SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 10);
+			cout << c;
+		}
+
+		else {
+			cout << c;
+		}
+
+		SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 15);
+	}
+
+	if (!istream && (istream.eof() == 0)) {
+		cout << "There was an issue reading this file. Please check your spelling and try again!" << endl;
+		istream.close();
+		return;
+	}
+
+	istream.close();
 }
 
 void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
