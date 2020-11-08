@@ -56,7 +56,18 @@ Maze::Maze(int dim_x, int dim_y, int num_entrances, int num_players) {
 	place_players(num_players);
 
 }
-	
+
+Maze::Maze(const Maze& rhs) {	
+	maze_x_size = rhs.maze_x_size;
+	maze_y_size = rhs.maze_y_size;
+	num_entrances = rhs.num_entrances;
+	num_players = rhs.num_players;
+
+	finishing_cell = rhs.finishing_cell;
+	entrance_cells = rhs.entrance_cells;
+	active_players = rhs.active_players;
+}
+
 Maze::~Maze() {
 	// Clean up
 	for (int i = 0; i < maze_x_size + 1; i++) {
@@ -297,7 +308,7 @@ void Maze::place_entrance(int num_entrances) {
 	}
 
 	for (int k = 0; k < num_entrances; k++) {
-		int random_exit = generate_random_number(confirmed_exit_positions.size(), 0);
+		int random_exit = generate_random_number(confirmed_exit_positions.size() - 1, 0);
 		Cell* c = confirmed_exit_positions.at(random_exit);		
 		
 		if (c->value != 'E') {
@@ -340,6 +351,17 @@ void Maze::save_maze(Maze* maze, string filename) {
 
 }
 
+void Maze::save_progression(Maze* m, string f) {
+	cout << "A txt file and an rtf file will be generated - the rtf file is readable but the txt file is only meant for the computer." << endl;
+	string txt_f = f + ".txt";
+	string rtf_f = f + "-rtf.rtf";
+
+	write_file(m, txt_f);
+	write_file(m, rtf_f);
+	
+
+}
+
 void Maze::write_file(Maze* m, string f) {
 	ofstream ostream;
 
@@ -355,6 +377,37 @@ void Maze::write_file(Maze* m, string f) {
 			ostream << m->maze[i][j].value;
 		}
 		ostream << endl;
+	}
+
+	if (!ostream) {
+		cout << "There was an issue writing to this file." << endl;
+	}
+
+	ostream.close();
+}
+
+void Maze::write_progression(Maze* m, string f) {
+	bool stop = false;
+	ofstream ostream;
+
+	ostream.open(f);
+	if (!ostream) {
+		cout << "There was an issue opening this file." << endl;
+	}
+
+	ostream << m->maze_x_size + 1 << "|" << m->maze_y_size + 1 << endl;
+	ostream << m->num_entrances << endl;
+
+	while (!stop) {
+		for (int i = 0; i < (m->maze_x_size + 1); i++) {
+			for (int j = 0; j < (m->maze_y_size + 1); j++) {
+				ostream << m->maze[i][j].value;
+			}
+			ostream << endl;
+		}
+		ostream << "-" << endl;
+
+		stop = step_through_movements(m->get_players());
 	}
 
 	if (!ostream) {

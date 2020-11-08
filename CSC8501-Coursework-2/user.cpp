@@ -48,6 +48,10 @@ void User::save_maze(Maze* m, string f) {
 	m->save_maze(m, f);
 }
 
+void User::save_progression(Maze* m, string f) {
+	m->save_progression(m, f);
+}
+
 void User::load_maze(Maze* m, string filename) {
 	m->load_maze(filename);
 }
@@ -79,6 +83,7 @@ int User::check_integer_input(int input) {
 int main() {
 	User* maze_user = new User("User1");
 	Maze* generated_maze = new Maze();
+	Maze* copy_maze;
 	int input = -1;	
 	int information_input = -1;
 
@@ -158,6 +163,8 @@ int main() {
 				generated_maze = maze_user->generate_maze(height, width, entrances);
 				generated_maze = maze_user->generate_all_routes(generated_maze);
 
+				copy_maze = new Maze(*generated_maze);
+
 				cout << "Do you want to start stepping through the players moving? " << endl;
 				cout << "(1) Yes " << endl;
 				cout << "(2) No " << endl;
@@ -202,8 +209,9 @@ int main() {
 				}
 
 				cout << "Do you want to save this maze? " << endl;
-				cout << "(1) Yes " << endl;
-				cout << "(2) No " << endl;
+				cout << "(1) Save just this maze " << endl;
+				cout << "(2) Save player progression mazes " << endl;
+				cout << "(3) No " << endl;
 				cout << "-> ";
 
 				input = maze_user->check_integer_input(input);
@@ -224,6 +232,20 @@ int main() {
 						maze_user->save_maze(generated_maze, filename);
 						break;
 					case 2:
+						cout << "Please enter a suitable filename - do not include special characters or spaces (they will be removed!): ";
+						cin >> filename;
+						filename = maze_user->check_string(filename);
+
+						if (filename.empty() == true) {
+							cout << "A unique name will be generated due to lack of characters" << endl;
+							filename = "maze" + to_string(generated_maze->generate_random_number(50000, 0));
+						}
+
+						filename = maze_user->get_username() + "-" + filename;
+
+						maze_user->save_progression(copy_maze, filename);
+						break;
+					case 3:
 						cout << "Saving will not occur." << endl;
 						break;
 					default:

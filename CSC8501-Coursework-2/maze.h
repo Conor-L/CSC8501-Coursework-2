@@ -53,6 +53,7 @@ class Maze{
 	public:
 		Maze();
 		Maze(int dim_x, int dim_y, int num_exits, int num_players); // Parameterised Constructor where the user can provide the information needed
+		Maze(const Maze& rhs);
 		~Maze();
 
 		// Maze initialisation functions
@@ -72,7 +73,9 @@ class Maze{
 
 		// Save and Load functions
 		void save_maze(Maze* maze, std::string filename);
+		void save_progression(Maze* m, std::string filename);
 		void write_file(Maze* m, std::string filename);
+		void write_progression(Maze* m, std::string filename);
 		Maze* load_maze(std::string filename);
 
 		// A* Algorithm route generation
@@ -109,7 +112,6 @@ class Maze{
 		std::vector<Cell*> entrance_cells;
 		std::vector<Entrance*> entrance_vector;
 		std::vector<Player*> active_players;
-		std::vector<Cell*> traversible_cells;
 
 		int players_finished = 0;
 };

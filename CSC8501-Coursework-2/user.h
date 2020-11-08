@@ -12,6 +12,7 @@ class User : public Maze {
 		bool step_through(Maze* m);
 		bool step_through_automatically(Maze* m);
 		void save_maze(Maze* maze, std::string filename);
+		void save_progression(Maze* maze, std::string filename);
 		void load_maze(Maze* maze, std::string filename);
 
 		std::string check_string(std::string s);
