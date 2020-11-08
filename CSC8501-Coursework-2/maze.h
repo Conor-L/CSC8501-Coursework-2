@@ -53,6 +53,7 @@ class Maze{
 	public:
 		Maze();
 		Maze(int dim_x, int dim_y, int num_exits, int num_players); // Parameterised Constructor where the user can provide the information needed
+		Maze(const Maze& rhs);
 		~Maze();
 
 		// Maze initialisation functions
@@ -99,8 +100,11 @@ class Maze{
 		std::vector<Cell*> get_entrances();
 		std::vector<Player*> get_players();
 
+		// Get the array index
+		int get_array_index(int x, int y) { return y + (maze_y_size + 1) * x; }
+
 	private:
-		Cell** maze;
+		Cell* maze;
 		int maze_x_size = 0;
 		int maze_y_size = 0;
 		int num_entrances = 2;

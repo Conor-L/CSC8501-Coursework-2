@@ -1,0 +1,4903 @@
+12|35
+2
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
+XXXXXXXXXXXXEXXXXXXXXXXXXXXXXXXXXXX
+XX         XP                    XX
+X X X X X X X X X X X X X X X X X X
+X    XXX       XXX   XXX   X   X  X
+X X X X X X X X     X X X X X XXX X
+X  X     XXXXX   F       X     X PE
+X X X X X X X X     X X X X X XXX X
+X      X         X   X       XXX  X
+X X X X X X X X X X X X X X X X X X
+X  X       X   X         X        X
+XX  X X X XXX XXX X X X XXX X X XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-
