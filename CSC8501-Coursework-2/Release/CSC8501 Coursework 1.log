@@ -9,9 +9,6 @@ C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.c
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(692,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(733,21): warning C4018: '<': signed/unsigned mismatch
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(756,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(847,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(848,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\maze.cpp(852,21): warning C4018: '<': signed/unsigned mismatch
   user.cpp
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\user.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\lambe\Documents\GitHub\CSC8501-Coursework-2\CSC8501-Coursework-2\user.cpp(63,15): warning C4018: '<': signed/unsigned mismatch

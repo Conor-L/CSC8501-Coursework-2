@@ -594,7 +594,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 		player->open.erase(player->open.begin() + index_of_q);
 		player->closed.emplace_back(q);
 
-		// up
+		// Up
 		if (q != nullptr && (q->current_cell->up_neighbour != nullptr && q->current_cell->up_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->up_neighbour;
 			Node* n = new Node;
@@ -611,7 +611,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}	
 
-		// down
+		// Down
 		if (q != nullptr && (q->current_cell->down_neighbour != nullptr && q->current_cell->down_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->down_neighbour;
 			Node* n = new Node;
@@ -628,7 +628,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}
 
-		// right
+		// Right
 		if (q != nullptr && (q->current_cell->right_neighbour != nullptr && q->current_cell->right_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->right_neighbour;
 			Node* n = new Node;
@@ -645,7 +645,7 @@ void Maze::generate_route(Node* dest, Player* player, Node* starting_node) {
 			}
 		}
 
-		// left
+		// Left
 		if (q != nullptr && (q->current_cell->left_neighbour != nullptr && q->current_cell->left_neighbour->value != 'X')) {
 			Cell* c = q->current_cell->left_neighbour;
 			Node* n = new Node;
@@ -761,8 +761,6 @@ void Maze::generate_all_routes(vector<Cell*> entrances) {
 		generate_route(finishing_node, current_player, starting_node);
 	}
 
-	//convert_path_vector(active_players);
-
 }
 
 void Maze::place_players(int num_players) {
@@ -840,23 +838,6 @@ bool Maze::step_through_movements(vector<Player*> players) {
 
 	print_maze();
 	return false;
-}
-
-void Maze::convert_path_vector(vector<Player*> players) {
-	stack<Node*> reversed_stack;
-	for (int i = 0; i < players.size(); i++) {
-		for (int j = 0; j < players.at(i)->path.size(); j++) {
-			players.at(i)->stack_path.push(players.at(i)->path.at(j));
-		}
-
-		for (int k = 0; k < players.at(i)->stack_path.size(); k++) {
-			reversed_stack.push(players.at(i)->stack_path.top());
-			players.at(i)->stack_path.pop();
-		}
-		players.at(i)->stack_path = reversed_stack;
-	}
-
-	
 }
 
 vector<Cell*> Maze::get_entrances() {

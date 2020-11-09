@@ -31,7 +31,6 @@ struct Entrance {
 };
 
 struct Player {
-	// TODO Clear the memory of these
 	Cell* current_cell;
 	Cell* previous_cell;
 	char value = 'P';
@@ -95,7 +94,6 @@ class Maze{
 		Cell* find_available_neighbour(Cell* entrance);
 		void update_player_position(Player* player, Cell* new_cell);
 		bool step_through_movements(std::vector<Player*> active_players);
-		void convert_path_vector(std::vector<Player*> players);
 
 		// Used for retrieving the exit vector needed for assisting the User Input
 		std::vector<Cell*> get_entrances();
